@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Magento Framework of PHP.
 <br>
-⚡ I'm Intrested in Coding Of Hardwares and Love To work wih Raspberry-pi and Arduino.
+⚡ I'm Intrested in Work With Hardwares and Love To work wih Raspberry-pi and Arduino.
 <br>
 📫 How to reach me: padhiyaranuj742000@gmail.com
 
 
-<h4>Languages and Tools:</h4>
+<b>Languages and Tools:</b><br>
 C, C++, Python, Java, Php, Ajax, Javascript, MySql
 
 
-<h4>Frameworks:</h4>
+<b>Frameworks:</b><br>
 django(python), magento(php), laravel(php)
