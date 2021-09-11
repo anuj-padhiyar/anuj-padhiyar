@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Magento Framework of PHP.
+🌱 I’m currently studying Mtech in CSE from NIT Kurukshetra.
+<br>
+🔭 I'm learning Python and ML.
 <br>
 ⚡ I'm Intrested in Work With Hardwares and Like To work with Raspberry-pi and Arduino.
 <br>
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <b>Languages and Tools:</b><br>
-C, C++, Python, Java, Php, Ajax, Javascript, MySql
+C, C++, Python, Java, Php, Ajax, Javascript, MySql, Python, Jquery
 
 
 <b>Frameworks:</b><br>
