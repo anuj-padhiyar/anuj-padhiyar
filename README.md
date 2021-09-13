@@ -15,6 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://twitter.com/anujs74">
+  <img align="left" alt="Anuj Padhiyar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://in.linkedin.com/in/anuj-padhiyar-47070216a/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/anujs74">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/anuj.padhiyar/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<!-- <a href="https://www.codechef.com/users/amanjhurani">
+  <img align="left" alt="Aman's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a> -->
+
+<br><br>
+![](https://visitor-badge.glitch.me/badge?page_id=anuj-padhiyar.anuj-padhiyar) 
+<img src="https://komarev.com/ghpvc/?username=anuj-padhiyar" alt="anuj-padhiyar" />
+<br><br>
+
 🌱 I’m currently studying Mtech in CSE from NIT Kurukshetra.
 <br>
 🔭 I'm learning Python and ML.
