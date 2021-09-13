@@ -30,3 +30,7 @@ C, C++, Python, Java, Php, Ajax, Javascript, MySql, Python, Jquery
 
 <b>Frameworks:</b><br>
 django(python), magento(php), laravel(php)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj-padhiyar&show_icons=true&theme=merko" alt="anuj-padhiyar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-padhiyar&layout=compact&hide=html&show_icons=true&theme=merko" alt="anuj-padhiyar" /></p>
+
