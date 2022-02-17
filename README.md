@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anuj SP.
+### Hi there 👋 I am Anuj.
 
 <!--
 **anuj-padhiyar/anuj-padhiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
