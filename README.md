@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [anuj-padhiyar.github.io](anuj-padhiyar.github.io)
+- 👨‍💻 All of my projects are available at https://github.com/anuj-padhiyar
 
 - 📫 How to reach me **anujsp.47@gmail.com**
 
